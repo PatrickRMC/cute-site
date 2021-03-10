@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-very-cute-app/static/css/main.3411c93b.chunk.css",
-    "main.js": "/my-very-cute-app/static/js/main.2a8d3336.chunk.js",
-    "main.js.map": "/my-very-cute-app/static/js/main.2a8d3336.chunk.js.map",
-    "runtime-main.js": "/my-very-cute-app/static/js/runtime-main.3cbdc72c.js",
-    "runtime-main.js.map": "/my-very-cute-app/static/js/runtime-main.3cbdc72c.js.map",
-    "static/js/2.1666e658.chunk.js": "/my-very-cute-app/static/js/2.1666e658.chunk.js",
-    "static/js/2.1666e658.chunk.js.map": "/my-very-cute-app/static/js/2.1666e658.chunk.js.map",
-    "static/js/3.55a833c7.chunk.js": "/my-very-cute-app/static/js/3.55a833c7.chunk.js",
-    "static/js/3.55a833c7.chunk.js.map": "/my-very-cute-app/static/js/3.55a833c7.chunk.js.map",
-    "index.html": "/my-very-cute-app/index.html",
-    "static/css/main.3411c93b.chunk.css.map": "/my-very-cute-app/static/css/main.3411c93b.chunk.css.map",
-    "static/js/2.1666e658.chunk.js.LICENSE.txt": "/my-very-cute-app/static/js/2.1666e658.chunk.js.LICENSE.txt",
-    "static/media/cuteheart.99416e54.svg": "/my-very-cute-app/static/media/cuteheart.99416e54.svg"
+    "main.css": "/cute-site/static/css/main.3411c93b.chunk.css",
+    "main.js": "/cute-site/static/js/main.2a8d3336.chunk.js",
+    "main.js.map": "/cute-site/static/js/main.2a8d3336.chunk.js.map",
+    "runtime-main.js": "/cute-site/static/js/runtime-main.c1bbc878.js",
+    "runtime-main.js.map": "/cute-site/static/js/runtime-main.c1bbc878.js.map",
+    "static/js/2.1666e658.chunk.js": "/cute-site/static/js/2.1666e658.chunk.js",
+    "static/js/2.1666e658.chunk.js.map": "/cute-site/static/js/2.1666e658.chunk.js.map",
+    "static/js/3.55a833c7.chunk.js": "/cute-site/static/js/3.55a833c7.chunk.js",
+    "static/js/3.55a833c7.chunk.js.map": "/cute-site/static/js/3.55a833c7.chunk.js.map",
+    "index.html": "/cute-site/index.html",
+    "static/css/main.3411c93b.chunk.css.map": "/cute-site/static/css/main.3411c93b.chunk.css.map",
+    "static/js/2.1666e658.chunk.js.LICENSE.txt": "/cute-site/static/js/2.1666e658.chunk.js.LICENSE.txt",
+    "static/media/cuteheart.99416e54.svg": "/cute-site/static/media/cuteheart.99416e54.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3cbdc72c.js",
+    "static/js/runtime-main.c1bbc878.js",
     "static/js/2.1666e658.chunk.js",
     "static/css/main.3411c93b.chunk.css",
     "static/js/main.2a8d3336.chunk.js"
